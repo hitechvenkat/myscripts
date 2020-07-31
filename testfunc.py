@@ -2,4 +2,4 @@ def mytest():
     print("venkadesh")
 
 
-mytese()
+mytest()
